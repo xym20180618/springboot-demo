@@ -23,6 +23,7 @@ public class StudentController {
     public Student qry(int id){
         System.out.println("修改123");
         System.out.println("修改123");
+        System.out.println("修改123");
         return service.queryById(id);
     }
 }
